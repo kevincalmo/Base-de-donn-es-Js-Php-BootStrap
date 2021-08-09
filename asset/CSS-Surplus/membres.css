@@ -1,0 +1,29 @@
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+.liste-membres {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 5%;
+}
+
+.liste-membres a {
+    text-decoration: none;
+    height: 1%;
+    margin-top: 3%;
+}
+
+p{
+    font-size: 3.5rem;
+    width: 50vw;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,19 @@
+
+.container {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items:stretch;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+h1 {
+    text-align: center;
+    font-size: 3.5rem;
+}
+.container a{
+    margin: 5%;
+    font-size: 2.5rem;
+    box-shadow: 0 0 5px black;
+}
